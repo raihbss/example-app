@@ -117,5 +117,11 @@ class ProductController extends BaseController {
     }
     skdjflksdj
     sdlfjslkdfj
-    
+
+    public  function no fn
+
+
+    public  function no fn2
+    public  function no fn3
+
 }
