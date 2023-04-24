@@ -100,4 +100,19 @@ class ProductController extends BaseController {
    
         return $this->sendResponse([], 'Product deleted successfully.');
     }
+
+    public function destroyWithId($id)
+    {
+        // delete product with id okay.
+    }
+
+    public function findWithId($id)
+    {
+        // find product with id okay.
+    }
+
+    public function searchProduct($name)
+    {
+        // find product with name okay.
+    }
 }
